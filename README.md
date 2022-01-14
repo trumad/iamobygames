@@ -6,6 +6,8 @@ Given an internet archive search, this script:
 * pastes that data into the item description, 
 * and adds several more fields to the item so that games can be cross referenced using IA searches in-browser.
 
+Supply the search string near the top of the script. Run with python3.
+
 Existing item descriptions - 
 
 * if it detects Jason's old bash script version of the mobygames info, it removes it before adding the updated version. 
